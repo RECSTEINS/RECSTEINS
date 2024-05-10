@@ -11,4 +11,4 @@
 ### 💪 &nbsp;I study in
 - Universidad Politecnica Quintana Roo (Software Engineering)
 
-- ### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
