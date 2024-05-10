@@ -8,7 +8,7 @@
 - Cybersecurity
 - Always learning
 
-### 💪 &nbsp;I study in
+### 💡 &nbsp;I study in
 - Universidad Politecnica Quintana Roo (Software Engineering)
 
 ### 🛠 &nbsp;Tech Stack
