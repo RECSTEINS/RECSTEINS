@@ -33,18 +33,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RECSTEINS&theme=tokyo-night" />
 </div>
-
-
-<h2 align="center">✍️ Random Dev Quote</h2>
-<div align="center">
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" />
-
-</div>
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-<div align="center">
-  
-  <img src="https://github-contributor-stats.vercel.app/api?username=RECSTEINS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
-</div>
