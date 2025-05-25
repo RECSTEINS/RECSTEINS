@@ -18,14 +18,18 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <h2 align="center">📊 GitHub Stats</h2>
 
-<div>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=RECSTEINS&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=RECSTEINS&theme=dark&hide_border=false" /><br/>
 </div>
-
-<div align="left">
+<br/>
+<div align="center">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=RECSTEINS&theme=dark&hide_border=false" />
+</div>
+<br/>
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RECSTEINS&theme=tokyonight" width="950"/>
 </div>
+<br/>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RECSTEINS&theme=tokyo-night" />
 </div>
