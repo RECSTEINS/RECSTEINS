@@ -19,11 +19,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-    
-</div>
-<br/>
-<div align="center">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=RECSTEINS&theme=dark&hide_border=false" />
+  <h3>ㅤㅤㅤㅤㅤEnglish &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤEspañol &nbsp;&nbsp;&nbsp;&nbsp; ㅤㅤㅤㅤㅤㅤㅤㅤ日本</h3>
+  <p>
+    <a href="https://git.io/streak-stats">
+        <img title="GitHub Stats" alt="RECSTEINS streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=RECSTEINS&theme=javascript-dark&exclude_days=Sun%2CSat&card_width=479" alt="GitHub Streak" />
+        <img title="GitHub Stats" alt="RECSTEINS streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=RECSTEINS&theme=python-dark&locale=es&exclude_days=Sun%2CSat&card_width=250&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+        <img title="GitHub Stats" alt="RECSTEINS streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=RECSTEINS&theme=python-dark&locale=ja&exclude_days=Sun%2CSat&card_width=250&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+    </a>
+  </p>
 </div>
 <br/>
 <div align="center">
