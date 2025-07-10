@@ -26,10 +26,7 @@
     </a>
   </p>
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RECSTEINS&theme=tokyonight" width="950"/>
-</div>
+
 <br/>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RECSTEINS&theme=tokyo-night" />
