@@ -22,7 +22,7 @@
   <p>
     <a href="https://git.io/streak-stats">
         <img title="GitHub Stats" alt="RECSTEINS streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=RECSTEINS&theme=javascript-dark&exclude_days=Sun%2CSat&card_width=479" alt="GitHub Streak"  align="center" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RECSTEINS&layout=compact&theme=tokyonight&langs_count=8"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RECSTEINS&layout=compact&theme=tokyonight&langs_count=8"  align="center"/>
   </p>
 </div>
 
